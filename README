@@ -1,0 +1,165 @@
+# Small Business Security
+
+> Practical cybersecurity resources and guidance for small businesses
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsmallbizsecurity.org)](https://smallbizsecurity.org)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+## About
+
+Small Business Security (smallbizsecurity.org) is a comprehensive resource platform designed to help small and medium-sized businesses implement effective cybersecurity measures without breaking the bank. We provide actionable guidance, tools, and best practices tailored specifically for businesses with limited IT resources and budgets.
+
+## Mission
+
+To democratize cybersecurity by making enterprise-level security practices accessible and affordable for small businesses, helping them protect their data, customers, and reputation from cyber threats.
+
+## Features
+
+- **Security Assessments** - Self-guided security audits and checklists
+- **Implementation Guides** - Step-by-step tutorials for security tools and practices
+- **Resource Library** - Curated collection of free and affordable security tools
+- **Incident Response Planning** - Templates and guidance for breach preparedness
+- **Compliance Assistance** - Help navigating regulatory requirements
+- **Threat Intelligence** - Current threat landscape updates relevant to small businesses
+
+## Target Audience
+
+- Small business owners (1-50 employees)
+- Entrepreneurs and startups
+- Small business IT administrators
+- Business consultants and advisors
+- Anyone seeking practical cybersecurity guidance
+
+## Key Topics Covered
+
+### Essential Security Practices
+- Password management and multi-factor authentication
+- Email security and phishing prevention
+- Secure remote work policies
+- Data backup and recovery strategies
+- Network security fundamentals
+
+### Compliance & Legal
+- GDPR, CCPA, and privacy law guidance
+- Industry-specific compliance (HIPAA, PCI-DSS)
+- Cyber insurance considerations
+- Legal incident response requirements
+
+### Tools & Technologies
+- Antivirus and endpoint protection
+- VPN setup and management
+- Cloud security best practices
+- Mobile device management
+- Security awareness training platforms
+
+## Getting Started
+
+### For Website Users
+1. Visit [smallbizsecurity.org](https://smallbizsecurity.org)
+2. Take our free security assessment
+3. Browse resources relevant to your industry
+4. Download our starter security checklist
+5. Join our community newsletter
+
+### For Contributors
+1. Fork this repository
+2. Read our [Contributing Guidelines](CONTRIBUTING.md)
+3. Check the [Issues](https://github.com/smallbizsecurity/smallbizsecurity.org/issues) for areas needing help
+4. Submit pull requests with improvements
+
+## Repository Structure
+
+```
+smallbizsecurity.org/
+├── content/                 # Website content and articles
+│   ├── guides/             # Security implementation guides
+│   ├── tools/              # Tool reviews and comparisons
+│   ├── resources/          # Downloadable resources
+│   └── blog/               # News and updates
+├── assets/                 # Images, documents, and media
+├── templates/              # Document and policy templates
+├── scripts/                # Automation and utility scripts
+├── docs/                   # Technical documentation
+└── community/              # Community guidelines and resources
+```
+
+## Contributing
+
+We welcome contributions from cybersecurity professionals, small business owners, and anyone passionate about improving small business security. Ways to contribute:
+
+- **Content Creation** - Write guides, reviews, or blog posts
+- **Technical Review** - Help verify accuracy of security advice
+- **Translation** - Make content accessible in multiple languages
+- **User Testing** - Provide feedback on usability and effectiveness
+- **Bug Reports** - Report website issues or outdated information
+
+Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before getting started.
+
+## Technology Stack
+
+- **Frontend**: [Insert your tech stack here - e.g., React, Vue.js, HTML/CSS]
+- **Backend**: [Insert backend technology - e.g., Node.js, Python/Django, Ruby on Rails]
+- **CMS**: [If applicable - e.g., Strapi, WordPress, Ghost]
+- **Hosting**: [e.g., Netlify, Vercel, AWS]
+- **Analytics**: [e.g., Google Analytics, Plausible]
+
+## Development Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/smallbizsecurity/smallbizsecurity.org.git
+cd smallbizsecurity.org
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## Community
+
+- **Website**: [smallbizsecurity.org](https://smallbizsecurity.org)
+- **Newsletter**: Subscribe for monthly security updates
+- **Discord**: [Join our community chat](https://discord.gg/smallbizsec)
+- **Twitter**: [@smallbizsec](https://twitter.com/smallbizsec)
+- **LinkedIn**: [Small Business Security](https://linkedin.com/company/smallbizsecurity)
+
+## Partners & Sponsors
+
+We're grateful for support from:
+- [Partner organizations, if any]
+- [Sponsors, if any]
+- Our community of contributors and users
+
+## Disclaimer
+
+The information provided on this website is for educational purposes only and should not be considered as professional cybersecurity advice. While we strive for accuracy, cybersecurity is complex and constantly evolving. We recommend consulting with qualified professionals for specific security implementations.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support
+
+- **General Questions**: Create an [issue](https://github.com/smallbizsecurity/smallbizsecurity.org/issues)
+- **Website Issues**: Report bugs through GitHub Issues
+- **Security Concerns**: Email security@smallbizsecurity.org
+- **Media Inquiries**: Email media@smallbizsecurity.org
+
+## Acknowledgments
+
+- Security researchers and practitioners who share their knowledge
+- Small business owners who provide real-world feedback
+- Open source projects that make this platform possible
+- Contributors who help improve and maintain the content
+
+---
+
+**Made with ❤️ for small businesses everywhere**
+
+*Last updated: [August 28, 2025]*
