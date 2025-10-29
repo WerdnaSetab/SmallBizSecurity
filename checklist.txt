@@ -1,0 +1,367 @@
+Small Business Security Checklist:
+
+ Protect Your Business from Cyber Threats
+
+---
+
+ About This Checklist
+
+This comprehensive security checklist helps small and medium businesses identify vulnerabilities and implement essential protections. Complete this assessment to understand your current security posture and prioritize improvements.
+
+**Time to complete:** 15-20 minutes  
+**Scoring:** Count your "Yes" answers at the end
+
+---
+
+ 1. PASSWORD & ACCESS MANAGEMENT
+
+ 1.1 Password Policies
+- [ ] **All employees use strong passwords** (12+ characters, mix of letters, numbers, symbols)
+- [ ] **Multi-factor authentication (MFA) is enabled** for all critical systems (email, banking, CRM)
+- [ ] **Passwords are never shared** between employees or written down
+- [ ] **Password manager is used** company-wide (LastPass, 1Password, Bitwarden)
+- [ ] **Passwords are changed** after employee departures
+
+### 1.2 Access Controls
+- [ ] **Employees only have access** to systems they need for their job
+- [ ] **Admin/root access is restricted** to essential personnel only
+- [ ] **Guest/visitor Wi-Fi is separate** from business network
+- [ ] **Account access is reviewed** at least quarterly
+- [ ] **Former employee accounts are disabled** immediately upon departure
+
+**Score: ___/10**
+
+---
+
+2. DATA BACKUP & RECOVERY
+
+2.1 Backup Systems
+- [ ] **Automated backups run daily** for all critical data
+- [ ] **Backups are stored in multiple locations** (on-site + cloud/off-site)
+- [ ] **Backup systems are tested** at least quarterly
+- [ ] **Backup data is encrypted** both in transit and at rest
+- [ ] **You have a documented recovery plan** with step-by-step procedures
+
+2.2 Business Continuity
+- [ ] **Recovery Time Objective (RTO) is defined** - you know how long you can be down
+- [ ] **Recovery Point Objective (RPO) is defined** - you know how much data loss is acceptable
+- [ ] **Alternative work arrangements** are documented for emergencies
+- [ ] **Key contacts and procedures** are documented and accessible
+- [ ] **Disaster recovery plan is tested** at least annually
+
+**Score: ___/10**
+
+---
+
+3. NETWORK & DEVICE SECURITY
+
+3.1 Network Protection
+- [ ] **Firewall is installed and configured** properly
+- [ ] **Wi-Fi network is encrypted** (WPA3 or WPA2 minimum)
+- [ ] **Default router passwords are changed**
+- [ ] **Network devices receive regular updates**
+- [ ] **Network activity is monitored** for suspicious behavior
+
+3.2 Device Security
+- [ ] **All computers have antivirus/anti-malware** installed and updated
+- [ ] **Operating systems are up-to-date** with latest security patches
+- [ ] **Software applications are updated** regularly
+- [ ] **Mobile devices are protected** with passwords and encryption
+- [ ] **Lost/stolen device policy** is in place and communicated
+
+ 3.3 Remote Work Security
+- [ ] **VPN is required** for remote access to business systems
+- [ ] **Personal devices meet security standards** if used for work (BYOD policy)
+- [ ] **Remote desktop protocols** are secured and monitored
+- [ ] **Cloud services use encryption** and strong authentication
+- [ ] **Public Wi-Fi policy** prohibits accessing sensitive data
+
+**Score: ___/15**
+
+---
+
+4. EMAIL & PHISHING PROTECTION
+
+4.1 Email Security
+- [ ] **Spam filters are enabled** and configured
+- [ ] **Email encryption is available** for sensitive communications
+- [ ] **Email authentication** (SPF, DKIM, DMARC) is configured
+- [ ] **Suspicious attachments are blocked** automatically
+- [ ] **Email accounts use MFA**
+
+ 4.2 Phishing Awareness
+- [ ] **Employees are trained** to recognize phishing attempts (at least annually)
+- [ ] **Suspicious emails are reported** to IT/security team
+- [ ] **Links and attachments are verified** before clicking/opening
+- [ ] **Urgent/emotional requests** are verified through alternate channels
+- [ ] **Regular phishing tests** are conducted to measure awareness
+
+**Score: ___/10**
+
+---
+
+5. DATA PROTECTION & PRIVACY
+
+ 5.1 Data Handling
+- [ ] **Sensitive data is identified** and classified (customer info, financial data, etc.)
+- [ ] **Data is encrypted** when stored and transmitted
+- [ ] **Physical documents are secured** (locked cabinets, shredding)
+- [ ] **Data retention policy exists** - old data is securely deleted
+- [ ] **Third-party vendor security** is verified before sharing data
+
+5.2 Compliance & Privacy
+- [ ] **Privacy policy is published** and up-to-date
+- [ ] **Compliance requirements are understood** (GDPR, HIPAA, PCI-DSS, etc.)
+- [ ] **Customer data consent is obtained** and documented
+- [ ] **Data breach response plan** exists and is tested
+- [ ] **Regular compliance audits** are conducted
+
+**Score: ___/10**
+
+---
+
+6. EMPLOYEE TRAINING & AWARENESS
+
+6.1 Security Training
+- [ ] **New employees receive security training** during onboarding
+- [ ] **Annual security refresher training** is mandatory
+- [ ] **Security policies are documented** and easily accessible
+- [ ] **Incident reporting procedures** are clear and practiced
+- [ ] **Security awareness materials** are shared regularly (tips, alerts)
+
+ 6.2 Security Culture
+- [ ] **Leadership demonstrates** security best practices
+- [ ] **Security questions are encouraged** without fear
+- [ ] **Good security behavior is recognized** and rewarded
+- [ ] **Security is discussed** in team meetings
+- [ ] **Employees know who to contact** for security concerns
+
+**Score: ___/10**
+
+---
+
+ 7. INCIDENT RESPONSE & MONITORING
+
+7.1 Monitoring
+- [ ] **System logs are reviewed** regularly for suspicious activity
+- [ ] **Failed login attempts** trigger alerts
+- [ ] **Network traffic is monitored** for anomalies
+- [ ] **Vulnerability scans** are run at least quarterly
+- [ ] **Security updates are prioritized** and applied promptly
+
+7.2 Incident Response
+- [ ] **Incident response plan** is documented
+- [ ] **Response team roles** are clearly defined
+- [ ] **Communication plan** exists for notifying stakeholders
+- [ ] **Legal and regulatory obligations** are understood
+- [ ] **Post-incident reviews** are conducted to improve defenses
+
+**Score: ___/10**
+
+---
+
+ 8. PHYSICAL SECURITY
+
+8.1 Facility Protection
+- [ ] **Doors and windows are secured** when unoccupied
+- [ ] **Access control systems** limit building/office entry
+- [ ] **Security cameras** monitor critical areas
+- [ ] **Visitor sign-in process** is enforced
+- [ ] **Server rooms are locked** and access is restricted
+
+8.2 Device Protection
+- [ ] **Laptops are locked** to desks when possible
+- [ ] **Screens are locked** when leaving desk
+- [ ] **Clean desk policy** is enforced (no sensitive documents left out)
+- [ ] **Equipment disposal** includes data wiping/destruction
+- [ ] **USB ports are disabled** or controlled on critical systems
+
+**Score: ___/10**
+
+---
+
+ 9. VENDOR & THIRD-PARTY SECURITY
+
+9.1 Vendor Management
+- [ ] **Vendor security policies** are reviewed before engagement
+- [ ] **Data sharing agreements** are documented and signed
+- [ ] **Vendor access is limited** to what's necessary
+- [ ] **Vendor credentials** are unique (not shared with your accounts)
+- [ ] **Vendor security is audited** periodically
+
+9.2 Cloud & SaaS Security
+- [ ] **Cloud providers meet security standards** (SOC 2, ISO 27001)
+- [ ] **Data location and sovereignty** are understood
+- [ ] **Cloud account security** uses MFA and strong passwords
+- [ ] **Cloud configurations are reviewed** for security misconfigurations
+- [ ] **Cloud backup and recovery** are independently verified
+
+**Score: ___/10**
+
+---
+
+10. FINANCIAL & PAYMENT SECURITY
+
+10.1 Financial Systems
+- [ ] **Online banking uses MFA**
+- [ ] **Payment card data is not stored** (PCI-DSS compliance)
+- [ ] **Financial transactions require approval** (dual control)
+- [ ] **Invoice/payment scams** are part of employee training
+- [ ] **Financial system access is restricted** and monitored
+
+ 10.2 Payment Processing
+- [ ] **POS systems are updated** regularly
+- [ ] **Payment terminals are inspected** for tampering
+- [ ] **Tokenization or encryption** is used for payment data
+- [ ] **PCI-DSS compliance** is maintained and audited
+- [ ] **Payment processor security** is verified
+
+**Score: ___/10**
+
+---
+
+YOUR TOTAL SECURITY SCORE
+
+**Total Points: _____ / 105**
+
+---
+
+ SCORE INTERPRETATION
+
+90-105 Points: EXCELLENT ✅
+**You're doing great!** Your security posture is strong. Focus on maintaining these practices and staying current with emerging threats.
+
+**Recommended Actions:**
+- Continue regular security training
+- Stay updated on new threats
+- Consider penetration testing
+- Review and update policies annually
+
+---
+
+70-89 Points: GOOD ⚠️
+**You have a solid foundation**, but there are gaps that need attention. Prioritize addressing any unchecked items.
+
+**Recommended Actions:**
+- Create action plan for unchecked items
+- Schedule security training for team
+- Consider professional security assessment
+- Implement missing critical controls (MFA, backups, etc.)
+
+---
+
+50-69 Points: NEEDS IMPROVEMENT 🔶
+**Significant vulnerabilities exist** that put your business at risk. Immediate action is required.
+
+**Recommended Actions:**
+- Prioritize critical items: backups, MFA, antivirus, employee training
+- Engage cybersecurity consultant
+- Develop comprehensive security plan
+- Allocate budget for security improvements
+
+---
+
+ Below 50 Points: CRITICAL RISK 🚨
+**Your business is highly vulnerable** to cyber threats. A security incident could be devastating.
+
+**Recommended Actions:**
+- **URGENT:** Implement backups and MFA immediately
+- Engage cybersecurity professional now
+- Conduct comprehensive security assessment
+- Develop and execute emergency security plan
+- Consider cyber insurance
+
+---
+
+PRIORITY ACTION ITEMS
+
+Based on industry standards, these are the MINIMUM security controls every business should have:
+
+Critical (Implement Immediately):
+1. ✅ **Multi-Factor Authentication (MFA)** on all critical accounts
+2. ✅ **Daily automated backups** with off-site storage
+3. ✅ **Antivirus/anti-malware** on all devices
+4. ✅ **Firewall** protecting network
+5. ✅ **Strong password policy** enforced
+
+ High Priority (Within 30 Days):
+6. ✅ **Employee security training** program
+7. ✅ **Incident response plan** documented
+8. ✅ **Data encryption** for sensitive information
+9. ✅ **Regular software updates** and patch management
+10. ✅ **Access control review** and cleanup
+
+Important (Within 90 Days):
+11. ✅ **Vulnerability scanning** quarterly
+12. ✅ **Security policies** documented and communicated
+13. ✅ **Vendor security assessments**
+14. ✅ **Backup testing** quarterly
+15. ✅ **Compliance requirements** identified and addressed
+
+---
+
+NEED HELP?
+
+If your score reveals vulnerabilities or you're unsure how to address specific items, **Small Business Security** can help.
+
+ We Offer:
+
+**Free 15-Minute Security Consultation**
+- Review your checklist results
+- Identify your biggest risks
+- Discuss solutions tailored to your budget
+- No obligation
+
+**Comprehensive Security Assessment**
+- In-depth vulnerability analysis
+- Written report with prioritized recommendations
+- Implementation roadmap
+- 30-day support
+
+**Ongoing Security Partnership**
+- Monthly monitoring and scanning
+- Regular training for your team
+- 24/7 incident response
+- Compliance support
+
+---
+
+Contact Us:
+
+**Small Business Security**  
+📧 info@smallbizsecurity.org  
+📞 650 314-9856
+🌐 www.smallbizsecurity.org
+
+**Don't wait for a breach to take security seriously.**  
+Let's protect your business together.
+
+---
+
+Additional Resources
+
+Recommended Reading:
+- FTC Small Business Cybersecurity Guide
+- NIST Cybersecurity Framework (Small Business Edition)
+- CISA Cyber Essentials
+
+Free Tools:
+- Have I Been Pwned (check if emails are compromised)
+- VirusTotal (scan files and URLs)
+- SSL Labs (test website security)
+- Password strength tester
+
+Compliance Resources:
+- GDPR.eu (for EU data protection)
+- HHS.gov (for HIPAA healthcare compliance)
+- PCI Security Standards Council (for payment card security)
+
+---
+
+**Document Version:** 1.0  
+**Last Updated:** October 2025  
+**Next Review:** April 2026
+
+---
+
+© 2025 Small Business Security. This checklist may be freely distributed with attribution.
